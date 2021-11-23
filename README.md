@@ -2,7 +2,7 @@
   <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=30&lines=Hi+%F0%9F%91%8B%2C+I'm+Bruno+Napoli"/>
 </h1>
 
-<h3 align="center">A Full-Stack Developer trainee from Argentina</h3>
+<h3 align="center">A Full-Stack Developer from Argentina</h3>
 
 -✏️ I’m currently learning: 
 ```javascript
