@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning: **Node.js with Mongo DB**
 
-- 💼 How to reach me: {
+- 💼 How to reach me: ```javascript{
                         e-mail: **napolii.bruno@gmail.com**
                         linkedin: **linkedin.com/in/napoli-bruno/**
                         }
-
+                        ```
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunonapoli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
