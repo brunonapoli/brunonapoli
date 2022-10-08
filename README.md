@@ -7,9 +7,8 @@
 -✏️ I’m currently learning: 
 ```javascript
   technologies: {
-        backEnd: {
-            js: ["Node","Express"],
-            database: ["MongoDB"]
+        frontEnd: {
+            React: ["Next.js"]
         }
 ```
 - 💼 How to reach me: 
