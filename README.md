@@ -12,13 +12,12 @@
         }
 ```
 - 💼 How to reach me: 
-```javascript
   {
     e-mail: "napolii.bruno@gmail.com"
     [Linkedin](linkedin.com/in/napoli-bruno/)
     [Portafolio](https://brunonapoli.github.io/)
   }
-```
+
 
 - 💻 Languages:
 
