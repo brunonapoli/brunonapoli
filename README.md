@@ -12,16 +12,18 @@
         }
 ```
 - 💼 How to reach me: 
+```javascript
   {
     e-mail: "napolii.bruno@gmail.com"
-    [Linkedin](linkedin.com/in/napoli-bruno/)
-    [Portafolio](https://brunonapoli.github.io/)
+    linkedin: "linkedin.com/in/napoli-bruno/"
+    portafolio: "https://brunonapoli.github.io/"
   }
-
+```
 
 - 💻 Languages:
 
 - 🤍 Most used languages:
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunonapoli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <-- <h1 align="left">Languages and Tools:</h1>
