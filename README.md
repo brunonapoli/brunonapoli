@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">A Full-Stack Developer from Argentina</h3>
-<h3 align="center"> [Portafolio](https://brunonapoli.github.io/) - [Linkedin](linkedin.com/in/napoli-bruno/)</h3>
+<h3 align="center"> <a>href='https://brunonapoli.github.io/'>Portafolio</a> - <a>href='linkedin.com/in/napoli-bruno/'>Linkedin</a> </h3>
 
 - ✏️ I’m currently learning: 
 ```javascript
@@ -26,6 +26,7 @@
     1. 'HTML5'
     2. 'CSS'
     3. 'Javascript'
+    4. 'Next.js'
     4. 'Bootstrap'
     5. 'Vue.js'
     6. 'Node.js'
