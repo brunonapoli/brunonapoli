@@ -4,7 +4,7 @@
 
 <h3 align="center">A Full-Stack Developer from Argentina</h3>
 
--✏️ I’m currently learning: 
+- ✏️ I’m currently learning: 
 ```javascript
   technologies: {
         frontEnd: {
@@ -14,14 +14,19 @@
 - 💼 How to reach me: 
 ```javascript
   {
-    e-mail: "napolii.bruno@gmail.com"
-    linkedin: "linkedin.com/in/napoli-bruno/"
-    portafolio: "https://brunonapoli.github.io/"
+    e-mail: 'napolii.bruno@gmail.com'
+    linkedin: 'linkedin.com/in/napoli-bruno/'
+    portafolio: 'https://brunonapoli.github.io/'
   }
 ```
 
 - 💻 Languages:
-
+```javascript
+  {
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    
+  }
+```
 - 🤍 Most used languages:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunonapoli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
