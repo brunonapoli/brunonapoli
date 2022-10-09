@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">A Full-Stack Developer from Argentina</h3>
-<h4 align="center"><a href='https://brunonapoli.github.io/' target="_blank">Portafolio</a> - <a href='linkedin.com/in/napoli-bruno/' target="_blank">Linkedin</a></h4>
+<h4 align="center"> <a href='https://brunonapoli.github.io/'> Portafolio </a> - <a href='https://www.linkedin.com/in/napoli-bruno/'> Linkedin </a> </h4>
 
 - ✏️ I’m currently learning: 
 ```javascript
