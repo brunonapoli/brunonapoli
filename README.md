@@ -3,6 +3,7 @@
 </h1>
 
 <h3 align="center">A Full-Stack Developer from Argentina</h3>
+<h3 align="center"> [Portafolio](https://brunonapoli.github.io/) - [Linkedin](linkedin.com/in/napoli-bruno/)</h3>
 
 - ✏️ I’m currently learning: 
 ```javascript
