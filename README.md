@@ -22,15 +22,15 @@
 
 - 💻 Languages:
 ```javascript  
-    1. HTML5
-    2. CSS
-    3. Javascript
-    4. Bootstrap
-    5. Vue.js
-    6. Node.js
-    7. MongoDB
-    8. Python
-    9. Git
+    1. 'HTML5'
+    2. 'CSS'
+    3. 'Javascript'
+    4. 'Bootstrap'
+    5. 'Vue.js'
+    6. 'Node.js'
+    7. 'MongoDB'
+    8. 'Python'
+    9. 'Git'
 ```  
 - 🤍 Most used languages:
 
